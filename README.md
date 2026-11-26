@@ -20,6 +20,7 @@ Hoje trabalho principalmente com Java, Spring Boot, Kotlin, JSF, MySQL, SQLite, 
 
 ### Contato
 
+- Currículo: [baixar em PDF](https://gabrieltoddy2001.github.io/Curriculo-Gabriel-Silva.pdf)
 - Portfólio: [gabrieltoddy2001.github.io](https://gabrieltoddy2001.github.io)
 - LinkedIn: [gabriel-silva-web](https://www.linkedin.com/in/gabriel-silva-web/)
 - E-mail: gabrielsilva.workroom@gmail.com
